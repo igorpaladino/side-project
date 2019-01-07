@@ -67,6 +67,7 @@ This device is composed by a conventional camera and an infrared depth sensor.
 All the images were taken from a distance ranging from 80cm to 1.1m from the Kinect sensor which has a resolution of 2mm. In the image depth.
 
 ![](images/samples.png)
+
 **Figure 1** - Visualization of input data.
 
 Figure 1 is showing one sample of a 2d image and the depth for each class which is inside the dataset.
@@ -89,11 +90,7 @@ Even though the dataset size is not so big and there are some pictures pretty si
 ### 2.5. Predict
 
 ![](images/output.png)
+
 **Figure 3** - Visualization of Predict Result
 
 In Figure 3, is showing one prediction for an image from the test dataset. In the class probabilities, it's possible to see that the model was correct in its prediction.
-
-
-
-
-
