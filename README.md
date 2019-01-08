@@ -44,15 +44,15 @@ The trained model will be saved on `root_path`.
 
 ### 2.1.Idea
 
-In Igor's final project at university, he tested the used of digital neural networks, also known as weightless neural networks,
+In Igor's final project at university, he tested the use of digital neural networks, also known as weightless neural networks,
 for face recognition using color and depth information from Kinect sensor with Python. After finishing the Challenge Project they thought
 that could be a good idea to take all the data that was collected from Kinect to his university's final project and use it with pretrained
 neural network models from Pytorch.
 
 This idea is pretty useful nowadays because face recognition is becoming very popular and is quite simple to get access to a
 device which you don't have permission just with a photo of the owner. Using the depth facial information is not purely secure,
-because someone can do a 3d model face oh the owner of the device and unlocked it. Even though it's quite hard to make this, they think that
-the combination of multiple strategies to face recognition is the best.
+because someone can do a 3d model face of the owner of the device and unlocked it. Even though,  it's quite hard to make this, they think that
+the combination of both strategies to face recognition would be a very good solution.
 
 ### 2.2. Input Data
 
